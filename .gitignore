@@ -1,0 +1,25 @@
+# Binaries
+/mybinlogdumper
+/mbd
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Coverage
+coverage.out
+coverage.html
+
+# Vendor / build output
+/vendor/
+/dist/
+/bin/
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
